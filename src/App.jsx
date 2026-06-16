@@ -553,7 +553,7 @@ export default function App() {
       <div className="flex items-center justify-center min-h-screen bg-slateDark-950 p-6 font-sans">
         <div className="max-w-md w-full bg-slateDark-900 border border-slateDark-800 rounded-3xl p-8 shadow-2xl">
           <div className="text-center mb-6">
-            <span className="text-5xl mb-2 inline-block">🧑‍🤝‍🧑</span>
+            <span className="text-5xl mb-2 inline-block">🤝</span>
             <h1 className="text-3xl font-extrabold text-white tracking-tight">Mates Web</h1>
             <p className="text-slate-400 text-sm mt-1">Premium social network linked to Supabase</p>
           </div>
